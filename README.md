@@ -12,7 +12,7 @@ Bem-vindo ao meu cantinho no GitHub! Aqui é onde ideias se transformam em códi
 
 - 📫 **Como me encontrar**: Pode me chamar no e-mail **saulo1337@proton.me** ou conectar pelo [LinkedIn](https://www.linkedin.com/in/saulo-gabriel-55b080306/?originalSubdomain=br). Sempre disponível para conversas sobre projetos, networking ou até dicas de cafés secretos na sua cidade.
 
-- ⚡ **Curiosidade divertida**: Quando não estou escrevendo código, estou:
+- ⚡ **Curiosidade**: Quando não estou escrevendo código, estou:
   - **Curtindo minha filha** ❤️, a maior fonte de inspiração da minha vida.
   - **Jogando eletrônicos**, principalmente para mostrar quem manda no ranking (ou tentar, pelo menos).
   - **Amante de carros** amo viajar, pegar meu carro, a aprecisar a rodovia.
