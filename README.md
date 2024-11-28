@@ -4,7 +4,7 @@ Bem-vindo ao meu cantinho no GitHub! Aqui é onde ideias se transformam em códi
 ☕💻 Você está prestes a explorar uma mistura de projetos criativos, desafios técnicos e um pouco da minha jornada pelo fascinante universo da tecnologia. 🚀
 
 ## Sobre mim
-- 👀 **Interesses**: Sou um entusiasta de tecnologia com foco em desenvolvimento de software, ciência de dados e inteligência artificial. Acredito que a inovação tem o poder de mudar o mundo — ou, pelo menos, evitar que fiquemos com mais planilhas do que podemos suportar. Além disso, sou fã de debates sobre UX, metodologias ágeis e como não quebrar o ambiente de produção (de novo).
+- 👀 **Interesses**: Sou um entusiasta de tecnologia com foco em desenvolvimento de software, ciência de dados e inteligência artificial. Acredito que a inovação tem o poder de mudar o mundo — ou, pelo menos, evitar que fiquemos com mais planilhas do que podemos suportar. Além disso, sou fã de debates, metodologias ágeis e como não quebrar o ambiente de produção (de novo).
 
 - 🌱 **Aprendizado atual**: Atualmente, estou explorando **HTML, CSS, JavaScript, PHP e MySQL**. Meu objetivo é sempre expandir minha caixa de ferramentas e descobrir novas formas de resolver problemas complexos.
 
@@ -33,7 +33,7 @@ Welcome to my GitHub space! This is where ideas turn into code, and coffee turns
 ☕💻 Get ready to explore a mix of creative projects, technical challenges, and a glimpse into my journey through the fascinating world of technology. 🚀
 
 ## About Me
-- 👀 **Interests**: I'm a technology enthusiast focusing on software development, data science, and artificial intelligence. I believe innovation has the power to change the world—or at least save us from endless spreadsheets. I'm also passionate about UX discussions, agile methodologies, and finding ways *not* to crash production (again).
+- 👀 **Interests**: I'm a technology enthusiast focusing on software development, data science, and artificial intelligence. I believe innovation has the power to change the world—or at least save us from endless spreadsheets. I'm also passionate discussions, agile methodologies, and finding ways *not* to crash production (again).
 
 - 🌱 **Currently Learning**: I'm diving into **HTML, CSS, JavaScript, PHP, and MySQL**. My goal is to keep expanding my toolbox and discovering new ways to solve complex problems.
 
