@@ -24,3 +24,32 @@ Bem-vindo ao meu cantinho no GitHub! Aqui é onde ideias se transformam em códi
 Se algum projeto por aqui chamou sua atenção ou se você simplesmente quer trocar ideias, não hesite em entrar em contato! Adoro aprender, compartilhar experiências e transformar boas ideias em ótimos resultados.
 
 ✨ **Obrigado por passar por aqui — e não se esqueça de dar uma olhada nos repositórios! Quem sabe você encontra algo interessante?** ✨
+
+------------------------------------ENG-----------------------------------------
+
+# Hello! 👋 I’m @sauloPadilha
+
+Welcome to my GitHub space! This is where ideas turn into code, and coffee turns into fuel for innovation.  
+☕💻 Get ready to explore a mix of creative projects, technical challenges, and a glimpse into my journey through the fascinating world of technology. 🚀
+
+## About Me
+- 👀 **Interests**: I'm a technology enthusiast focusing on software development, data science, and artificial intelligence. I believe innovation has the power to change the world—or at least save us from endless spreadsheets. I'm also passionate about UX discussions, agile methodologies, and finding ways *not* to crash production (again).
+
+- 🌱 **Currently Learning**: I'm diving into **HTML, CSS, JavaScript, PHP, and MySQL**. My goal is to keep expanding my toolbox and discovering new ways to solve complex problems.
+
+- 💞️ **Collaborations**: I thrive on challenging and collaborative projects, especially those where I can add value with my skills or learn from amazing people. If you have an exciting idea in mind, bring it on! I promise my commit messages will (mostly) make sense.
+
+- 📫 **How to Reach Me**: Drop me an email at **saulo1337@proton.me** or connect via [LinkedIn](https://www.linkedin.com/in/saulo-gabriel-55b080306/?originalSubdomain=br). I’m always open to discussing projects, networking, or sharing secret coffee spots in your city.
+
+- ⚡ **Fun Facts**: When I’m not coding, I’m:
+  - **Spending time with my daughter** ❤️, the greatest inspiration in my life.
+  - **Playing video games**, trying to dominate the leaderboards (or at least survive).
+  - **Exploring cars**, love travel, pick my car and enjoy de ride.
+  - **Cheering for Formula 1**, where speed and strategy meet in perfect harmony.
+  - **Enjoying craft beer**, because life’s too short to drink just anything.
+
+---
+
+If any project here caught your attention or you just want to exchange ideas, don’t hesitate to get in touch! I love learning, sharing experiences, and turning great ideas into outstanding results.
+
+✨ **Thanks for stopping by—don’t forget to check out my repositories! You might find something interesting.** ✨
