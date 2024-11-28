@@ -17,7 +17,7 @@ Bem-vindo ao meu cantinho no GitHub! Aqui é onde ideias se transformam em códi
   - **Jogando eletrônicos**, principalmente para mostrar quem manda no ranking (ou tentar, pelo menos).
   - **Amante de carros** amo viajar, pegar meu carro, a aprecisar a rodovia.
   - **Vibrando com a Fórmula 1**, onde velocidade e estratégia se encontram.
-  - **Apreciando uma boa cerveja artesanal**, porque a vida é muito curta para beber qualquer coisa.
+  - **Apreciando uma boa cerveja**, porque a vida é muito curta para beber qualquer coisa.
   
 ---
 
