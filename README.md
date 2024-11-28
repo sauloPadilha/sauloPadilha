@@ -10,7 +10,7 @@ Bem-vindo ao meu cantinho no GitHub! Aqui é onde ideias se transformam em códi
 
 - 💞️ **Colaborações**: Adoro projetos desafiadores e colaborativos, especialmente aqueles onde posso somar valor com minhas habilidades ou aprender com pessoas incríveis. Se tiver algo bacana em mente, traga sua ideia! Eu prometo que o commit será com mensagens claras (ou quase isso).
 
-- 📫 **Como me encontrar**: Pode me chamar no e-mail saulo1337@proton.me ou conectar pelo LinkedIn [[link para o LinkedIn](https://www.linkedin.com/in/saulo-gabriel-55b080306/?originalSubdomain=br)]. Sempre disponível para conversas sobre projetos, networking ou até dicas de cafés secretos na sua cidade.
+- 📫 **Como me encontrar**: Pode me chamar no e-mail saulo1337@proton.me ou conectar pelo [LinkedIn](https://www.linkedin.com/in/saulo-gabriel-55b080306/?originalSubdomain=br)]. Sempre disponível para conversas sobre projetos, networking ou até dicas de cafés secretos na sua cidade.
 
 - ⚡ **Curiosidade divertida**: Quando não estou escrevendo código, estou provavelmente discutindo a melhor moagem para o café filtrado ou me aventurando em trilhas onde o sinal de Wi-Fi não chega. Equilíbrio, afinal, é tudo.
 
